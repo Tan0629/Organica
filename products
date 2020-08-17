@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Молоко",
+    "units": "2 л"
+    "price": 44.80,
+    "icon_name": "icon1"
+  },
+  {
+     "name": "Сир Брі",
+     "units": "0.5 кг"
+    "price": 129.20,
+    "icon_name": "icon2"
+  },
+  {
+     "name": "Хліб Корельський",
+     "units": "1 батон"
+    "price": 15.10,
+    "icon_name": "icon3"
+  }
+]
